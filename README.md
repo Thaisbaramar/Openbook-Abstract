@@ -1,5 +1,11 @@
 # Openbook The App
 
+## Acknowledgment:
+
+This project, **Openbook The App**, was developed as part of an academic initiative to explore the implementation of a Library Management System. All concepts, methodologies, and insights presented in this document are credited to the educational guidance provided by **Dr. Mohammed Nazeh Al-Imam**. We express our sincere gratitude for his invaluable support and expertise throughout the development of this project.
+
+This project adheres to the educational guidelines of our institution, and we acknowledge that any proprietary knowledge or frameworks used in this project are the intellectual property of their respective owners. The authors claim no ownership of any external content and ensure that all relevant sources and tools are credited appropriately.
+
 ## Abstract
 
 This project involves the creation of a **Library Management System** designed to provide global access to libraries. The app will enable users to search for books and texts and download them as PDFs. The project explores the conditions necessary for creating an effective library management system, including technical, legal, and functional aspects.
